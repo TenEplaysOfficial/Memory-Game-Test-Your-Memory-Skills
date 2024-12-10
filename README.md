@@ -13,7 +13,7 @@ A beautiful and engaging memory card game built with React, TypeScript, and Tail
 
 ## 🚀 Live Demo
 
-Play the game here: [Memory Game](https://teneplaysofficial.github.io/memory-game)
+Play the game here: [Memory Game](https://memorycardgamebytene.netlify.app)
 
 ## 🎨 Technologies Used
 
